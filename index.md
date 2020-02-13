@@ -9,7 +9,9 @@ Litt om datavisualisering
 ```markdown
 Litt om R
 
-Noe tekst i **fet skrift**, noe tekst i _kursiv_ og noe tekst i `kode`
+Noe tekst i **fet skrift**
+Noe tekst i _kursiv_ 
+Noe tekst i `kode`
 
 
 ```
